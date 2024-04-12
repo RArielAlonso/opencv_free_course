@@ -1,3 +1,14 @@
+# Files ignored
+
+checkerboard_18x18.png
+checkerboard_84x84.jpg
+checkerboard_color.png
+checkerboard_fuzzy_18x18.jpg
+coca-cola-logo.png
+New_Zealand_Lake.jpg
+opencv_bootcamp_assets_NB1.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
